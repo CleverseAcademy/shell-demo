@@ -1,0 +1,27 @@
+{
+  "name": "shell-demo",
+  "version": "1.0.0",
+  "description": "A demo repository for shell introduction",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"what are you testing for?\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverseAcademy/shell-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverseAcademy/shell-demo/issues"
+  },
+  "homepage": "https://github.com/CleverseAcademy/shell-demo#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
